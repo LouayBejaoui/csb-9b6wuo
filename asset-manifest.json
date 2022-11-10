@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://louaybejaoui.github.io/csb-9b6wuo/static/css/main.8a479d0b.chunk.css",
+    "main.js": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/main.994a4e02.chunk.js",
+    "main.js.map": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/main.994a4e02.chunk.js.map",
+    "runtime-main.js": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/runtime-main.ef85cad2.js",
+    "runtime-main.js.map": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/runtime-main.ef85cad2.js.map",
+    "static/js/2.931df8f5.chunk.js": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/2.931df8f5.chunk.js",
+    "static/js/2.931df8f5.chunk.js.map": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/2.931df8f5.chunk.js.map",
+    "index.html": "https://louaybejaoui.github.io/csb-9b6wuo/index.html",
+    "static/css/main.8a479d0b.chunk.css.map": "https://louaybejaoui.github.io/csb-9b6wuo/static/css/main.8a479d0b.chunk.css.map",
+    "static/js/2.931df8f5.chunk.js.LICENSE.txt": "https://louaybejaoui.github.io/csb-9b6wuo/static/js/2.931df8f5.chunk.js.LICENSE.txt",
+    "static/media/easybank.10cc4b70.png": "https://louaybejaoui.github.io/csb-9b6wuo/static/media/easybank.10cc4b70.png",
+    "static/media/longtermtrends.e38e5056.png": "https://louaybejaoui.github.io/csb-9b6wuo/static/media/longtermtrends.e38e5056.png",
+    "static/media/me-me-new.a841a456.jpg": "https://louaybejaoui.github.io/csb-9b6wuo/static/media/me-me-new.a841a456.jpg",
+    "static/media/pfe.755656fe.png": "https://louaybejaoui.github.io/csb-9b6wuo/static/media/pfe.755656fe.png",
+    "static/media/tindog.c9fd52be.png": "https://louaybejaoui.github.io/csb-9b6wuo/static/media/tindog.c9fd52be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef85cad2.js",
+    "static/js/2.931df8f5.chunk.js",
+    "static/css/main.8a479d0b.chunk.css",
+    "static/js/main.994a4e02.chunk.js"
+  ]
+}
